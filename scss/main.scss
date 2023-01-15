@@ -257,10 +257,11 @@
 
   &__text {
     h2 {
+      position: relative;
       &::after {
         position: absolute;
-        left: 350px;
-        top: 220px;
+        left: 0px;
+        top: 80px;
         width: 37px;
         height: 5px;
         background: $red;
