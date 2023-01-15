@@ -41,6 +41,7 @@
 }
 
 .business {
+  padding: 135px 0;
   background-color: #fff;
   width: 100%;
   text-align: center;
@@ -195,7 +196,7 @@
 }
 
 .faq {
-  margin: 0 auto;
+  background-color: rgb(219, 219, 219);
   display: flex;
   justify-content: center;
   align-items: center;

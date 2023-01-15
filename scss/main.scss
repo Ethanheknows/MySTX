@@ -49,6 +49,7 @@
 }
 
 .business {
+  padding: 135px 0;
   background-color: $white;
   width: 100%;
   text-align: center;
@@ -217,10 +218,13 @@
   }
 }
 .faq {
-  margin: 0 auto;
+  background-color: $drakwhite;
+  // margin: 0 360px;
+  // padding: 0 350px;
   display: flex;
   justify-content: center;
   align-items: center;
+  // width: 1200px;
   width: 1200px;
   height: 360px;
   .box {
@@ -247,6 +251,7 @@
 }
 .about {
   background-color: $white;
+
   justify-content: center;
   .about-wrap {
     display: flex;
